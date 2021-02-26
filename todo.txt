@@ -1,6 +1,6 @@
 line1-new
 line2
 line3- edit 1 2
-line4 - 4 - 1
+line4 - 4 - 1 -2
 line5
 line6
